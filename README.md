@@ -12,9 +12,9 @@ employee types reporting to him/her at least two levels deep.
   
    > Manager
    
-   >    Developer
+   >>    Developer
    
-   >    QATester
+   >>    QATester
 
 2) This application is used to determine the monthly expense allocation warranted a department with various 
 employee types under it at multiple levels deep just as the Manager can.
