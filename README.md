@@ -9,8 +9,11 @@ Two main features of this application:
 employee types reporting to him/her at least two levels deep.
 
   Manager
+  
    > Manager
+   
    >    Developer
+   
    >    QATester
 
 2) This application is used to determine the monthly expense allocation warranted a department with various 
